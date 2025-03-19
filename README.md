@@ -1,6 +1,6 @@
 # 📌 Formulário Estático de Inscrição – Programa de Formação SECTI + FAPEMA  
 
-Este projeto foi desenvolvido para a trilha de aprendizado em **Front-End** no **Programa de Formação SECTI + FAPEMA**. Trata-se de um formulário de inscrição **estático**, criado com **HTML, CSS e JavaScript**, visando fidelidade ao design disponibilizado no **Figma** e aplicando os conceitos aprendidos ao longo do programa. O objetivo foi construir uma interface responsiva e funcional.
+Este projeto foi desenvolvido para a trilha de aprendizado em **Front-End** no **Programa de Formação SECTI + FAPEMA**. Trata-se de um formulário de inscrição **estático**, criado com **HTML, CSS e JavaScript**, visando fidelidade ao design disponibilizado no **Figma** e aplicando os conceitos aprendidos ao longo do programa.
 
 ## 🛠 Tecnologias Utilizadas  
 - **HTML** → Estruturação de todo o formulário, campos a serem preenchidos e textos explicativos ao longo da página 
