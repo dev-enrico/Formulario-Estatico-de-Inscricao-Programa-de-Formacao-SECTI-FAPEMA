@@ -20,7 +20,7 @@ O projeto foi desenvolvido em aproximadamente **um mês** por:
 ├── 📂 js/ # Arquivos JavaScript
 ├── index.html # Página principal do formulário
 ├── README.md # Documentação do projeto
-├── 📄 documentacao.pdf # Documento final detalhando o projeto com Link para o Vídeo explicativo do código e seu funcionamento
+├── 📄 documentacao.pdf # Documento final detalhando o projeto com Link para o vídeo explicativo do código e seu funcionamento
 
 
 ## 📌 Funcionalidades  
