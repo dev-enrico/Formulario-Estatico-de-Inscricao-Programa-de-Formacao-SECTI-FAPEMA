@@ -20,7 +20,7 @@ O projeto foi desenvolvido em aproximadamente **um mês** por:
 ├── 📂 js/ # Arquivos JavaScript
 ├── index.html # Página principal do formulário
 ├── README.md # Documentação do projeto
-├── 📄 documentacao.pdf # Documento final detalhando o projeto com Link para o vídeo explicativo do código e seu funcionamento
+├── 📄 Documentação Final - Formulário de Estático de Inscrição.pdf # Documento final detalhando o projeto com Link para o vídeo explicativo do código e seu funcionamento
 
 
 ## 📌 Funcionalidades  
@@ -33,6 +33,6 @@ O projeto foi desenvolvido em aproximadamente **um mês** por:
 O projeto consolidou conhecimentos em **HTML semântico**, **CSS responsivo**, **boas práticas de estilização** e **interatividade com JavaScript**. Além disso, exigiu organização, trabalho em equipe e documentação detalhada do processo.  
 
 ## 📎 Documentação Completa  
-O arquivo **documentacao.pdf** contém mais detalhes técnicos do projeto e dos autores, além do link para o vídeo explicativo do código e eu funcionamento, como citado anteriomente.  
+O arquivo **Documentação Final - Formulário de Estático de Inscrição.pdf** contém mais detalhes técnicos do projeto e dos autores, além do link para o vídeo explicativo do código e eu funcionamento, como citado anteriomente.  
 
 📌 **Projeto desenvolvido no Programa de Formação SECTI + FAPEMA – Trilha Front-End.**
